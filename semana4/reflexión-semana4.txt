@@ -1,0 +1,1 @@
+En esta actividad aprendí los conceptos básicos de Node.js y Express, así como la importancia de npm para crear y gestionar proyectos. También comprendí cómo funciona un servidor web y cómo responder solicitudes desde el navegador. Estos conocimientos son una base importante para el desarrollo de aplicaciones web.
