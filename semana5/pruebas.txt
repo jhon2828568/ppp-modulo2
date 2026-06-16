@@ -1,0 +1,3 @@
+http://localhost:3000: muestra en el navegador "Servidor activo"
+http://localhost:3000/saludo: Muestra en el navegador "Hola comunidad"
+http://localhost:3000/mensaje/jhon: Muestra en el navegador "Hola jhon"

@@ -1,0 +1,7 @@
+En el navegador, la ruta del reporte no muestra información pero cuando se ejecuta en POSTMAN se ve el mensaje enviado en el body.
+{
+    "estado": "Reporte recibido",
+    "mensaje": "Prueba de mensaje en postman con Daniela"
+}
+
+Los POST sirven en una aplicación comunitaria en caso de requerir realizar registro de información, consultar información o modificarla.
